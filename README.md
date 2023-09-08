@@ -1,4 +1,3 @@
-# About
 <h1 align="center">Hi 👋, I'm Mudasir Ahmad</h1>
 <h3 align="center">A man still finding meaning of life</h3>
 
